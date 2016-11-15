@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dc_Crosssells>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Dc_Crosssells>
+    </modules>
+</config>
